@@ -1,0 +1,12 @@
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 64 64" enable-background="new 0 0 64 64" xml:space="preserve">
+<path fill="#0c4a6e" d="M56,12H8c-0.6,0-1,0.4-1,1v31h4h40h6V13C57,12.4,56.6,12,56,12z" id="id_101"></path>
+<path fill="#0c4a6e" d="M57,44h-4H11H7H3c0,4.4,3.6,8,8,8h42c4.4,0,8-3.6,8-8H57z" id="id_102"></path>
+<rect x="11" y="16" fill="#ffffff" width="42" height="28" id="id_103"></rect>
+<rect x="7" y="40" opacity="0.12" fill="#0284c7" width="50" height="4" id="id_104"></rect>
+<path opacity="0.12" fill="#0c4a6e" d="M53,49H11c-3.4,0-6.2-2.1-7.4-5H3c0,4.4,3.6,8,8,8h42c4.4,0,8-3.6,8-8h-0.6
+	C59.2,46.9,56.4,49,53,49z" id="id_105"></path>
+<path fill="#f7f7f7" d="M46,49H18c-0.6,0-1-0.4-1-1l0,0c0-0.6,0.4-1,1-1h28c0.6,0,1,0.4,1,1l0,0C47,48.6,46.6,49,46,49z" id="id_106"></path>
+<path fill="#0284c7" d="M24.4,35.8l-6-5C18.1,30.6,18,30.3,18,30s0.1-0.6,0.4-0.8l6-5l1.3,1.5L20.6,30l5.1,4.2L24.4,35.8z" id="id_107"></path>
+<path fill="#0284c7" d="M39.6,35.8l-1.3-1.5l5.1-4.2l-5.1-4.2l1.3-1.5l6,5c0.2,0.2,0.4,0.5,0.4,0.8s-0.1,0.6-0.4,0.8L39.6,35.8z" id="id_108"></path>
+<rect x="24.4" y="28.5" transform="matrix(0.524 -0.8517 0.8517 0.524 -9.8939 41.2962)" fill="#0284c7" width="15.3" height="2" id="id_109"></rect>
+</svg>

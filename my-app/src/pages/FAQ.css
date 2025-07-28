@@ -1,0 +1,122 @@
+.faq-content {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 3rem;
+  margin-top: 2rem;
+}
+
+.faq-list {
+  background: white;
+  border-radius: 1rem;
+  overflow: hidden;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+}
+
+.faq-item {
+  border-bottom: 1px solid var(--gray-200);
+}
+
+.faq-item:last-child {
+  border-bottom: none;
+}
+
+.faq-question {
+  width: 100%;
+  padding: 1.5rem;
+  background: none;
+  border: none;
+  text-align: left;
+  font-size: 1.125rem;
+  font-weight: 600;
+  color: var(--gray-900);
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  transition: background-color 0.3s ease;
+}
+
+.faq-question:hover {
+  background-color: var(--gray-50);
+}
+
+.faq-icon {
+  font-size: 1.5rem;
+  color: var(--brand-600);
+  font-weight: 300;
+  transition: transform 0.3s ease;
+}
+
+.faq-item-open .faq-icon {
+  transform: rotate(180deg);
+}
+
+.faq-answer {
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+}
+
+.faq-item-open .faq-answer {
+  max-height: 200px;
+}
+
+.faq-answer p {
+  padding: 0 1.5rem 1.5rem;
+  color: var(--gray-600);
+  line-height: 1.6;
+}
+
+.faq-sidebar {
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.faq-contact-card,
+.faq-services-card {
+  background: white;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.faq-contact-card {
+  background: linear-gradient(135deg, var(--brand-50) 0%, var(--brand-100) 100%);
+}
+
+.faq-contact-card h3,
+.faq-services-card h3 {
+  font-size: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--gray-900);
+}
+
+.faq-contact-card p,
+.faq-services-card p {
+  color: var(--gray-600);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+@media (max-width: 768px) {
+  .faq-content {
+    grid-template-columns: 1fr;
+    gap: 2rem;
+  }
+
+  .faq-question {
+    padding: 1rem;
+    font-size: 1rem;
+  }
+
+  .faq-answer p {
+    padding: 0 1rem 1rem;
+  }
+
+  .faq-contact-card,
+  .faq-services-card {
+    padding: 1.5rem;
+  }
+}

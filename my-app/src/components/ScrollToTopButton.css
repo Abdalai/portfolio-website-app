@@ -1,0 +1,75 @@
+.scroll-to-top {
+  position: fixed;
+  bottom: 2rem;
+  right: 2rem;
+  z-index: 1000;
+}
+
+.scroll-to-top-button {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: var(--brand-600);
+  color: white;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+  animation: fadeInUp 0.3s ease;
+}
+
+.scroll-to-top-button:hover {
+  background: var(--brand-700);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.2);
+}
+
+.scroll-to-top-button:active {
+  transform: translateY(0);
+}
+
+.scroll-icon {
+  transition: transform 0.2s ease;
+}
+
+.scroll-to-top-button:hover .scroll-icon {
+  transform: translateY(-1px);
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .scroll-to-top {
+    bottom: 1.5rem;
+    right: 1.5rem;
+  }
+
+  .scroll-to-top-button {
+    width: 45px;
+    height: 45px;
+  }
+}
+
+/* Smooth scrolling for the entire page */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Hide scroll-to-top button when at the very top */
+.scroll-to-top-button[aria-hidden="true"] {
+  opacity: 0;
+  pointer-events: none;
+}
