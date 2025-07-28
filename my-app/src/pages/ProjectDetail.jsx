@@ -125,18 +125,18 @@ const ProjectDetail = () => {
       id: 3,
       title: "Altru Spa Hotels - Brand Identity & Website Design",
       category: "Graphic Design, UI/UX Design",
-      description:
-        "Academic project: Complete brand identity package including logo design, mockups, marketing materials, and website design in Figma for luxury spa hotels.",
-      image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/altru_stylescape.jpg-mekBsVg9UKq6FTa6MYmPjDE62khzt6.jpeg",
+      description: "Academic project: Complete brand identity package including logo design, mockups, marketing materials, and website design in Figma for Altru Spa Hotels.",
+      image: "/images/Altru_Spa_Hotels/Desktop.png",
       technologies: ["Figma", "Adobe Illustrator", "Photoshop", "Brand Strategy", "UI/UX Design"],
       client: "Academic Project - Altru Spa Hotels",
-      year: "2023",
-      duration: "6 weeks",
+      year: "2024",
+      duration: "4 weeks",
       overview:
-        "This comprehensive academic project involved creating a complete brand identity system for Altru Spa Hotels, a luxury spa hotel chain. The project encompassed logo design, brand guidelines, marketing materials, mockups, and a complete website design in Figma, focusing on conveying luxury, relaxation, and premium hospitality services.",
+        "This comprehensive academic project involved creating a complete brand identity system for Altru Spa Hotels. The project encompassed logo design, brand guidelines, marketing materials, mockups, and a complete website design in Figma, focusing on conveying luxury, relaxation, and premium hospitality services.",
       overview_image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/altru_stylescape.jpg-mekBsVg9UKq6FTa6MYmPjDE62khzt6.jpeg",
+        ["/images/Altru_Spa_Hotels/altru_stylescape.jpg",
+        "/images/Altru_Spa_Hotels/desktop&iphone.png",
+      ],
       challenges:
         "Creating a brand identity that effectively communicates luxury and relaxation while maintaining professional credibility in the competitive hospitality market. The challenge was to develop a cohesive visual system that works across all touchpoints from digital to physical applications.",
       solution:
@@ -152,10 +152,9 @@ const ProjectDetail = () => {
         "Premium hospitality-focused design approach",
       ],
       gallery: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/altru_stylescape.jpg-mekBsVg9UKq6FTa6MYmPjDE62khzt6.jpeg",
-      ],
-      designImages: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/altru_stylescape.jpg-mekBsVg9UKq6FTa6MYmPjDE62khzt6.jpeg",
+        "/images/Altru_Spa_Hotels/font.png",
+        "/images/Altru_Spa_Hotels/Altru_Spa_Hotels.webp",
+        "/images/Altru_Spa_Hotels/colors.png",
       ],
       designTitle: "Altru Spa Hotels - Brand Identity & Digital Design",
     },

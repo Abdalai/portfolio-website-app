@@ -58,20 +58,20 @@ const Projects = () => {
       title: "Altru Spa Hotels - Brand Identity & Website Design",
       category: "Graphic Design, UI/UX Design",
       description:
-        "Academic project: Complete brand identity package including logo design, mockups, marketing materials, and website design in Figma for luxury spa hotels.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/altru_stylescape.jpg-mekBsVg9UKq6FTa6MYmPjDE62khzt6.jpeg",
+        "Academic project: Complete brand identity package including logo design, mockups, marketing materials, and website design in Figma for Altru Spa Hotels.",
+      image: "images/Altru_Spa_Hotels/logo.png",
       technologies: ["Figma", "Adobe Illustrator", "Photoshop", "Brand Strategy", "UI/UX Design"],
       client: "Academic Project - Altru Spa Hotels",
-      year: "2023",
-      duration: "6 weeks",
+      year: "2024",
+      duration: "4 weeks",
       overview:
-        "This comprehensive academic project involved creating a complete brand identity system for Altru Spa Hotels, a luxury spa hotel chain. The project encompassed logo design, brand guidelines, marketing materials, mockups, and a complete website design in Figma.",
+        "This comprehensive academic project involved creating a complete brand identity system for Altru Spa Hotels. The project encompassed logo design, brand guidelines, marketing materials, mockups, and a complete website design in Figma.",
       challenges:
         "Creating a brand identity that effectively communicates luxury and relaxation while maintaining professional credibility in the competitive hospitality market.",
       solution:
         "Developed a sophisticated brand identity featuring elegant typography, a refined color palette, and luxurious imagery. Created comprehensive mockups and a detailed website design that emphasizes the spa experience.",
       results:
-        "Successfully created a complete brand ecosystem that positions Altru Spa Hotels as a premium luxury destination with advanced skills in brand development and digital design.",
+        "Successfully created a complete brand identity that positions Altru Spa Hotels as a premium luxury destination with advanced skills in brand development and digital design.",
     },
 
     {
