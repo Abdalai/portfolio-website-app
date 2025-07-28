@@ -121,7 +121,398 @@ const ProjectDetail = () => {
       ],
       designTitle: "Högskolan Dalarna - Graphic Manual and Guidelines",
     },
-    
+    "altru-spa-hotels-brand-identity": {
+      id: 3,
+      title: "Altru Spa Hotels - Brand Identity & Website Design",
+      category: "Graphic Design, UI/UX Design",
+      description:
+        "Academic project: Complete brand identity package including logo design, mockups, marketing materials, and website design in Figma for luxury spa hotels.",
+      image:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/altru_stylescape.jpg-mekBsVg9UKq6FTa6MYmPjDE62khzt6.jpeg",
+      technologies: ["Figma", "Adobe Illustrator", "Photoshop", "Brand Strategy", "UI/UX Design"],
+      client: "Academic Project - Altru Spa Hotels",
+      year: "2023",
+      duration: "6 weeks",
+      overview:
+        "This comprehensive academic project involved creating a complete brand identity system for Altru Spa Hotels, a luxury spa hotel chain. The project encompassed logo design, brand guidelines, marketing materials, mockups, and a complete website design in Figma, focusing on conveying luxury, relaxation, and premium hospitality services.",
+      overview_image:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/altru_stylescape.jpg-mekBsVg9UKq6FTa6MYmPjDE62khzt6.jpeg",
+      challenges:
+        "Creating a brand identity that effectively communicates luxury and relaxation while maintaining professional credibility in the competitive hospitality market. The challenge was to develop a cohesive visual system that works across all touchpoints from digital to physical applications.",
+      solution:
+        "Developed a sophisticated brand identity featuring elegant typography, a refined color palette, and luxurious imagery. Created comprehensive mockups and a detailed website design that emphasizes the spa experience and premium accommodations.",
+      results:
+        "Successfully created a complete brand ecosystem that positions Altru Spa Hotels as a premium luxury destination. The project demonstrated advanced skills in brand development, digital design, and comprehensive visual identity systems.",
+      features: [
+        "Complete logo design and brand identity system",
+        "Luxury-focused visual identity and color palette",
+        "Comprehensive marketing materials and mockups",
+        "Full website design and user experience in Figma",
+        "Brand guidelines and usage documentation",
+        "Premium hospitality-focused design approach",
+      ],
+      gallery: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/altru_stylescape.jpg-mekBsVg9UKq6FTa6MYmPjDE62khzt6.jpeg",
+      ],
+      designImages: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/altru_stylescape.jpg-mekBsVg9UKq6FTa6MYmPjDE62khzt6.jpeg",
+      ],
+      designTitle: "Altru Spa Hotels - Brand Identity & Digital Design",
+    },
+
+    "falu-car-wash-menu": {
+      id: 4,
+      title: "Falu Car Wash - Service Menu Design",
+      category: "Graphic Design",
+      description:
+        "Client project: Professional service menu design for Falu Car Wash featuring comprehensive pricing list and service descriptions for car washing services.",
+      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/framsidan.png-kWvyrQhY2aJJYSNW4gq1BRHTOc8WJd.jpeg",
+      technologies: ["Adobe Illustrator", "Photoshop", "Print Design", "Layout Design"],
+      client: "Falu Car Wash",
+      year: "2023",
+      duration: "2 weeks",
+      overview:
+        "This client project involved designing a professional service menu for Falu Car Wash, showcasing their complete range of car washing and detailing services. The design needed to be both informative and visually appealing while maintaining clear pricing structure and service descriptions.",
+      overview_image:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/framsidan.png-kWvyrQhY2aJJYSNW4gq1BRHTOc8WJd.jpeg",
+      challenges:
+        "Creating a clear, professional menu design that effectively communicates various service levels and pricing while maintaining visual appeal and brand consistency for a local car wash business.",
+      solution:
+        "Designed a comprehensive service menu with clear categorization of services (Economy, Classic, and Premium washing), professional automotive imagery, and easy-to-read pricing structure. Used dynamic visual elements and professional color scheme.",
+      results:
+        "Delivered a professional service menu that effectively communicates the business offerings and has been successfully implemented for customer use, helping to streamline the ordering process and enhance the professional image of the business.",
+      features: [
+        "Clear service categorization and pricing structure",
+        "Professional automotive imagery and graphics",
+        "Easy-to-read layout with contact information",
+        "Multiple service tiers clearly differentiated",
+        "Professional branding and visual identity",
+        "Print-ready design specifications",
+      ],
+      gallery: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/framsidan.png-kWvyrQhY2aJJYSNW4gq1BRHTOc8WJd.jpeg",
+      ],
+      designImages: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/framsidan.png-kWvyrQhY2aJJYSNW4gq1BRHTOc8WJd.jpeg",
+      ],
+      designTitle: "Falu Car Wash - Professional Service Menu",
+    },
+
+    "co2-dataset-visualization": {
+      id: 5,
+      title: "CO2 Dataset - Environmental Data Visualization",
+      category: "Frontend Development",
+      description:
+        "Academic project: Backend development and data visualization system using CO2 datasets to create statistical analysis and interactive charts of transportation emissions.",
+      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/start_page01-fLGKBK9ChTeVvmELtFO6IN22LvAuiB.png",
+      technologies: ["JavaScript", "Node.js", "Data Visualization", "Chart.js", "HTML", "CSS"],
+      client: "Academic Project",
+      year: "2023",
+      duration: "8 weeks",
+      overview:
+        "This academic project focused on environmental data analysis, involving the development of a backend system to process CO2 emission datasets and create comprehensive statistical visualizations. The project analyzed emissions from various transportation methods and presented the data through interactive web-based charts and graphs.",
+      overview_image:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/start_page01-fLGKBK9ChTeVvmELtFO6IN22LvAuiB.png",
+      challenges:
+        "Processing large environmental datasets, creating meaningful statistical analysis, and developing an intuitive user interface for complex environmental data visualization while ensuring data accuracy and accessibility.",
+      solution:
+        "Built a comprehensive data processing backend that analyzes CO2 emissions from different transportation types, implemented interactive visualization tools, and created a user-friendly interface for exploring environmental impact data.",
+      results:
+        "Successfully created a functional environmental data visualization platform that provides valuable insights into transportation-related CO2 emissions, demonstrating proficiency in data analysis, backend development, and environmental awareness.",
+      features: [
+        "Comprehensive CO2 dataset processing and analysis",
+        "Interactive data visualization and charts",
+        "Transportation emission comparison tools",
+        "Statistical analysis and reporting features",
+        "Responsive web interface design",
+        "Environmental impact assessment tools",
+      ],
+      gallery: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/start_page01-fLGKBK9ChTeVvmELtFO6IN22LvAuiB.png",
+      ],
+      designImages: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/start_page01-fLGKBK9ChTeVvmELtFO6IN22LvAuiB.png",
+      ],
+      designTitle: "CO2 Dataset - Environmental Data Platform",
+    },
+
+    "grona-tryck-complete-brand": {
+      id: 6,
+      title: "Gröna Tryck - Complete Brand & E-commerce Platform",
+      category: "Frontend Development",
+      description:
+        "Academic project: Comprehensive brand identity, website development, logo design, mockups, visual identity, marketing materials, packaging design, payment system, login system, and admin panel using React, CSS, Bootstrap, and HTML.",
+      image: "/images/grona_tryck/logo.png",
+      technologies: ["React", "CSS", "Bootstrap", "HTML", "JavaScript", "Adobe Illustrator", "Brand Strategy"],
+      client: "Academic Project - Gröna Tryck",
+      year: "2023",
+      duration: "12 weeks",
+      overview:
+        "This comprehensive academic project involved creating a complete brand identity and e-commerce platform for Gröna Tryck (Green Print), an environmentally conscious printing company. The project encompassed everything from logo design and brand guidelines to a fully functional website with payment processing, user authentication, and administrative features.",
+      overview_image: "/images/grona_tryck/brand_overview.png",
+      challenges:
+        "Creating a cohesive brand identity that effectively communicates environmental responsibility while developing a complete e-commerce platform with modern web technologies, including secure payment processing and comprehensive admin functionality.",
+      solution:
+        "Developed a complete brand ecosystem with environmental focus, built a responsive e-commerce website using React and Bootstrap, implemented secure user authentication and payment systems, and created comprehensive admin tools for business management.",
+      results:
+        "Successfully delivered a complete business solution combining professional brand identity with functional e-commerce capabilities, demonstrating full-stack development skills and comprehensive understanding of digital business requirements.",
+      features: [
+        "Complete brand identity system and graphic manual",
+        "Responsive e-commerce website built with React",
+        "Secure user authentication and login system",
+        "Integrated payment processing system",
+        "Comprehensive admin panel for business management",
+        "Professional packaging and marketing material design",
+        "Environmental sustainability-focused branding",
+        "Mobile-responsive design with Bootstrap",
+      ],
+      gallery: ["/images/grona_tryck/website.png", "/images/grona_tryck/admin.png", "/images/grona_tryck/packaging.png"],
+      designImages: [
+        "/images/grona_tryck/manual_page1.png",
+        "/images/grona_tryck/manual_page2.png",
+        "/images/grona_tryck/manual_page3.png",
+      ],
+      designTitle: "Gröna Tryck - Complete Brand & E-commerce Solution",
+    },
+
+    "imasters-portfolio-website": {
+      id: 7,
+      title: "iMasters - IT Services Portfolio Website",
+      category: "Frontend Development",
+      description:
+        "Client project: Complete portfolio website and logo design for iMasters IT services company, built with React, CSS, HTML, and Bootstrap for professional IT consultancy presentation.",
+      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imasters_iPhone-h4VWtIuzZjFgGwckFJR8jAeqWB60kn.png",
+      technologies: ["React", "CSS", "HTML", "Bootstrap", "JavaScript", "Logo Design"],
+      client: "iMasters IT Services",
+      year: "2023",
+      duration: "4 weeks",
+      overview:
+        "This client project involved creating a complete portfolio website for iMasters, an IT services and consultancy company. The project included logo design, brand development, and a fully responsive website showcasing their IT support services, business solutions, and professional expertise.",
+      overview_image:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imasters_iPhone-h4VWtIuzZjFgGwckFJR8jAeqWB60kn.png",
+      challenges:
+        "Creating a professional online presence that effectively communicates technical expertise while remaining accessible to non-technical clients, and developing a responsive design that works across all devices and platforms.",
+      solution:
+        "Designed a clean, professional logo and built a comprehensive portfolio website using React and Bootstrap, featuring clear service descriptions, professional imagery, and responsive design optimized for both desktop and mobile users.",
+      results:
+        "Successfully delivered a professional website that effectively showcases iMasters' IT services and expertise, helping to establish their online presence and attract new business clients in the competitive IT services market.",
+      features: [
+        "Professional logo design and brand identity",
+        "Responsive portfolio website built with React",
+        "Comprehensive IT services presentation",
+        "Mobile-optimized design with Bootstrap",
+        "Professional business-focused content structure",
+        "Clean, modern user interface design",
+      ],
+      gallery: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imasters_iPhone-h4VWtIuzZjFgGwckFJR8jAeqWB60kn.png",
+      ],
+      designImages: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imasters_iPhone-h4VWtIuzZjFgGwckFJR8jAeqWB60kn.png",
+      ],
+      designTitle: "iMasters - IT Services Portfolio Platform",
+    },
+
+    "insightcycle-brand-identity": {
+      id: 8,
+      title: "InsightCycle - Brand Identity & Graphic Manual",
+      category: "Graphic Design",
+      description:
+        "Academic project: Complete brand identity development and comprehensive graphic manual for InsightCycle, featuring logo design, color systems, and professional brand guidelines.",
+      image:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-1.jpg-QWvCKk3utnzpEtcz1XAgMXACBPsbr8.jpeg",
+      technologies: ["Adobe Illustrator", "InDesign", "Photoshop", "Brand Strategy", "Graphic Design"],
+      client: "Academic Project - InsightCycle",
+      year: "2023",
+      duration: "5 weeks",
+      overview:
+        "This academic project focused on developing a complete brand identity for InsightCycle, a technology-focused feedback and analytics platform. The project involved creating a distinctive logo, comprehensive color system, and detailed graphic manual to ensure consistent brand application across all communications.",
+      overview_image: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-1.jpg-QWvCKk3utnzpEtcz1XAgMXACBPsbr8.jpeg",
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-2.jpg-AVpr5nYoFkrmNEvceEf6rUeMaf0RRA.jpeg",
+      ],
+      challenges:
+        "Creating a brand identity that effectively communicates technology and professionalism while developing a comprehensive graphic manual that ensures consistent brand application across various media and platforms.",
+      solution:
+        "Developed a sophisticated brand identity featuring a distinctive logo with modern typography, created a professional color palette with light beige, deep blue, gold, and dark blue tones, and produced a detailed graphic manual with clear usage guidelines.",
+      results:
+        "Successfully created a professional brand identity system that effectively positions InsightCycle as a modern, reliable technology platform, with comprehensive documentation ensuring consistent brand implementation.",
+      features: [
+        "Distinctive logo design with modern aesthetic",
+        "Comprehensive color palette and usage guidelines",
+        "Professional graphic manual with detailed specifications",
+        "Technology-focused brand positioning",
+        "Consistent visual identity system",
+        "Professional documentation and brand standards",
+      ],
+      gallery: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-1.jpg-QWvCKk3utnzpEtcz1XAgMXACBPsbr8.jpeg",
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-2.jpg-AVpr5nYoFkrmNEvceEf6rUeMaf0RRA.jpeg",
+      ],
+      designImages: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-1.jpg-QWvCKk3utnzpEtcz1XAgMXACBPsbr8.jpeg",
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-2.jpg-AVpr5nYoFkrmNEvceEf6rUeMaf0RRA.jpeg",
+      ],
+      designTitle: "InsightCycle - Brand Identity & Graphic Manual",
+    },
+
+    "lilla-bryggeri-complete-brand": {
+      id: 9,
+      title: "Lilla Bryggeri - Complete Brand Identity & Marketing",
+      category: "Graphic Design",
+      description:
+        "Academic project: Comprehensive brand development for Lilla Bryggeri including logo design, marketing materials, packaging design, website design, and complete graphic manual.",
+      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-ZVQKzjVwEFEbFOSjttXoYj2Hb5b75u.png",
+      technologies: ["Adobe Illustrator", "InDesign", "Photoshop", "Brand Strategy", "Packaging Design", "Web Design"],
+      client: "Academic Project - Lilla Bryggeri Tällberg",
+      year: "2023",
+      duration: "8 weeks",
+      overview:
+        "This comprehensive academic project involved creating a complete brand identity for Lilla Bryggeri, a craft brewery in Tällberg. The project encompassed logo design, marketing materials, packaging design, website development, and a complete graphic manual, focusing on local heritage and craft brewing traditions.",
+      overview_image: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-ZVQKzjVwEFEbFOSjttXoYj2Hb5b75u.png",
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fa%CC%88rger%20-%20fa%CC%88rgpalett-D9O2tbn4wCUuBU8jjU4jhx6tZiL6wn.png",
+      ],
+      challenges:
+        "Creating a brand identity that honors local brewing traditions while appealing to modern craft beer enthusiasts, and developing a comprehensive brand system that works across packaging, digital, and marketing applications.",
+      solution:
+        "Developed a distinctive hand-lettered logo reflecting craft brewing heritage, created a color palette inspired by the Dalarna region, designed comprehensive packaging solutions, and produced marketing materials that celebrate local brewing traditions.",
+      results:
+        "Successfully created a complete brand ecosystem that positions Lilla Bryggeri as an authentic craft brewery rooted in local tradition, with comprehensive brand guidelines ensuring consistent application across all touchpoints.",
+      features: [
+        "Hand-lettered logo design reflecting craft brewing heritage",
+        "Regional color palette inspired by Dalarna traditions",
+        "Comprehensive packaging design for various beer products",
+        "Complete marketing materials and promotional design",
+        "Website design and digital brand applications",
+        "Detailed graphic manual with brand guidelines",
+        "Local heritage-focused brand positioning",
+      ],
+      gallery: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-ZVQKzjVwEFEbFOSjttXoYj2Hb5b75u.png",
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fa%CC%88rger%20-%20fa%CC%88rgpalett-D9O2tbn4wCUuBU8jjU4jhx6tZiL6wn.png",
+      ],
+      designImages: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-ZVQKzjVwEFEbFOSjttXoYj2Hb5b75u.png",
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fa%CC%88rger%20-%20fa%CC%88rgpalett-D9O2tbn4wCUuBU8jjU4jhx6tZiL6wn.png",
+      ],
+      designTitle: "Lilla Bryggeri - Complete Brand Identity System",
+    },
+
+    "pizza-mia-menu-design": {
+      id: 10,
+      title: "Pizza Mia - Restaurant Menu Design",
+      category: "Graphic Design",
+      description:
+        "Client project: Professional pizza menu design for Pizza Mia restaurant featuring comprehensive food offerings, pricing, and appetizing visual presentation.",
+      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PIZZA%20MIA-VzRaBFUqZvSFmKTuLtI3bYbahGX7eE.png",
+      technologies: ["Adobe Illustrator", "Photoshop", "Print Design", "Menu Design"],
+      client: "Pizza Mia Restaurant",
+      year: "2023",
+      duration: "2 weeks",
+      overview:
+        "This client project involved designing a comprehensive menu for Pizza Mia, a local pizza restaurant. The design needed to showcase their full range of pizzas, appetizers, and beverages while maintaining an appetizing visual appeal and clear pricing structure for easy customer navigation.",
+      overview_image:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PIZZA%20MIA-VzRaBFUqZvSFmKTuLtI3bYbahGX7eE.png",
+      challenges:
+        "Creating an appetizing menu design that effectively organizes a large variety of food items while maintaining visual appeal and ensuring easy readability for customers in a restaurant setting.",
+      solution:
+        "Designed a comprehensive menu with clear categorization of items, appetizing food photography integration, professional typography, and organized pricing structure that enhances the dining experience.",
+      results:
+        "Delivered a professional menu design that effectively showcases Pizza Mia's offerings and has been successfully implemented in the restaurant, helping to improve customer experience and streamline ordering processes.",
+      features: [
+        "Comprehensive pizza and food item categorization",
+        "Professional food photography integration",
+        "Clear pricing structure and item descriptions",
+        "Appetizing visual design and layout",
+        "Easy-to-read typography and organization",
+        "Print-ready restaurant menu specifications",
+      ],
+      gallery: ["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PIZZA%20MIA-VzRaBFUqZvSFmKTuLtI3bYbahGX7eE.png"],
+      designImages: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PIZZA%20MIA-VzRaBFUqZvSFmKTuLtI3bYbahGX7eE.png",
+      ],
+      designTitle: "Pizza Mia - Professional Restaurant Menu",
+    },
+
+    "sweden-top-car-wordpress": {
+      id: 11,
+      title: "SwedenTopCar - WordPress Website & Logo",
+      category: "Web Maintenance",
+      description:
+        "Client project: Complete WordPress website development and logo design for SwedenTopCar automotive services, featuring professional automotive branding and responsive web design.",
+      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/swedentopcar_pc-8ylmGlfKCxg1IETgUDcU7bklL2D8cM.png",
+      technologies: ["WordPress", "PHP", "CSS", "HTML", "Logo Design", "Automotive Design"],
+      client: "SwedenTopCar",
+      year: "2023",
+      duration: "3 weeks",
+      overview:
+        "This client project involved creating a complete WordPress website and logo design for SwedenTopCar, an automotive services company. The project required developing a professional online presence that effectively showcases their automotive expertise and services while maintaining easy content management capabilities.",
+      overview_image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-T0z6Dty6EkpdIsW8Sf2D8PvW6i5uZ9.png",
+      challenges:
+        "Creating a professional automotive website that effectively communicates expertise and reliability while ensuring easy content management for the client and optimal performance across all devices.",
+      solution:
+        "Developed a custom WordPress website with professional automotive branding, created a distinctive logo design, and implemented responsive design features that work seamlessly across desktop and mobile platforms.",
+      results:
+        "Successfully delivered a professional WordPress website that effectively represents SwedenTopCar's automotive services and provides an easy-to-manage platform for ongoing content updates and business growth.",
+      features: [
+        "Custom WordPress website development",
+        "Professional automotive logo design",
+        "Responsive design for all devices",
+        "Easy content management system",
+        "Professional automotive branding",
+        "SEO-optimized website structure",
+      ],
+      gallery: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/swedentopcar_pc-8ylmGlfKCxg1IETgUDcU7bklL2D8cM.png",
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-T0z6Dty6EkpdIsW8Sf2D8PvW6i5uZ9.png",
+      ],
+      designImages: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/swedentopcar_pc-8ylmGlfKCxg1IETgUDcU7bklL2D8cM.png",
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-T0z6Dty6EkpdIsW8Sf2D8PvW6i5uZ9.png",
+      ],
+      designTitle: "SwedenTopCar - WordPress Website & Branding",
+    },
+
+    "matresa-food-magazine": {
+      id: 12,
+      title: "Matresa - Food Magazine Design",
+      category: "Graphic Design",
+      description:
+        "Academic project: Complete food magazine design featuring culinary content, professional food photography layout, and comprehensive editorial design for Swedish food culture publication.",
+      image:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/khamel_abdalai_u2-images-1.jpg-uWZrqsCj2DCjJOX9EcEUfujqAABfbu.jpeg",
+      technologies: ["Adobe InDesign", "Photoshop", "Editorial Design", "Typography", "Layout Design"],
+      client: "Academic Project - Matresa Magazine",
+      year: "2023",
+      duration: "6 weeks",
+      overview:
+        "This academic project involved creating a complete food magazine called 'Matresa' focusing on Swedish and international culinary traditions. The project required developing editorial design skills, professional layout techniques, and creating engaging visual presentations of food content and recipes.",
+      overview_image:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/khamel_abdalai_u2-images-1.jpg-uWZrqsCj2DCjJOX9EcEUfujqAABfbu.jpeg",
+      challenges:
+        "Creating an engaging editorial design that effectively presents food content, recipes, and culinary stories while maintaining professional magazine standards and visual appeal throughout multiple pages and sections.",
+      solution:
+        "Developed a comprehensive magazine layout with professional food photography integration, created engaging typography systems, and designed clear content organization that enhances the reading experience and showcases culinary content effectively.",
+      results:
+        "Successfully created a professional food magazine that demonstrates advanced editorial design skills and comprehensive understanding of publication design, layout principles, and food content presentation.",
+      features: [
+        "Professional editorial design and layout",
+        "Comprehensive food photography integration",
+        "Engaging typography and content organization",
+        "Multi-page magazine design and structure",
+        "Swedish culinary content focus",
+        "Professional publication design standards",
+      ],
+      gallery: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/khamel_abdalai_u2-images-1.jpg-uWZrqsCj2DCjJOX9EcEUfujqAABfbu.jpeg",
+      ],
+      designImages: [
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/khamel_abdalai_u2-images-1.jpg-uWZrqsCj2DCjJOX9EcEUfujqAABfbu.jpeg",
+      ],
+      designTitle: "Matresa - Swedish Food Magazine Design",
+    },
+       
   }
 
   const project = projects[slug]
