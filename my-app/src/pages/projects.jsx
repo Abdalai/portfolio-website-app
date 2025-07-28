@@ -51,6 +51,28 @@ const Projects = () => {
       results:
         "Successfully created a professional-level brand identity system that received high academic marks and demonstrates mastery of brand design principles and comprehensive documentation standards.",
     },
+
+    {
+      id: 3,
+      slug: "altru-spa-hotels-identity-design",
+      title: "Altru Spa Hotels - Identity Design",
+      category: "Graphic Design",
+      description:
+        "Academic project: Comprehensive brand identity manual for Altru Spa Hotels. Created as part of my graphic design studies, including complete visual guidelines, logo system, color palette, and typography standards.",
+      image: "/images/altru_spa_hotels_identity/logo.png",
+      technologies: ["Adobe Illustrator", "InDesign", "Photoshop", "Brand Strategy", "Figma"],
+      client: "Academic Project - Dalarna University College",
+      year: "2023",
+      duration: "4 weeks",
+      overview:
+        "This comprehensive brand identity manual was created as an academic assignment during my graphic design studies at Dalarna University College. The project involved developing a complete visual identity system for the university, including logo variations, color systems, typography guidelines, and image standards.",
+      challenges:
+        "Creating a cohesive brand identity system that reflects the university's values of openness, knowledge, and cultural diversity while maintaining professional credibility and accessibility across all communication channels.",
+      solution:
+        "Developed a comprehensive 16-page brand manual featuring a distinctive logo with a shield symbol and planet element, a sophisticated color palette inspired by traditional Dalarna folk costumes, and detailed guidelines for consistent brand application.",
+      results:
+        "Successfully created a professional-level brand identity system that received high academic marks and demonstrates mastery of brand design principles and comprehensive documentation standards.",
+    },
   ]
 
   const categories = ["All", "Frontend Development", "Graphic Design", "UI/UX Design", "Web Maintenance"]
