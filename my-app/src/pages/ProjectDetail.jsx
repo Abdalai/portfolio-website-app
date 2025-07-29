@@ -201,15 +201,15 @@ const ProjectDetail = () => {
       category: "Frontend Development",
       description:
         "Academic project: Backend development and data visualization system using CO2 datasets to create statistical analysis and interactive charts of transportation emissions.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/start_page01-fLGKBK9ChTeVvmELtFO6IN22LvAuiB.png",
+      image: "/images/dataset/start_page01.png",
       technologies: ["JavaScript", "Node.js", "Data Visualization", "Chart.js", "HTML", "CSS"],
       client: "Academic Project",
-      year: "2023",
+      year: "2024",
       duration: "8 weeks",
       overview:
         "This academic project focused on environmental data analysis, involving the development of a backend system to process CO2 emission datasets and create comprehensive statistical visualizations. The project analyzed emissions from various transportation methods and presented the data through interactive web-based charts and graphs.",
       overview_image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/start_page01-fLGKBK9ChTeVvmELtFO6IN22LvAuiB.png",
+        "/images/dataset/overview.png",
       challenges:
         "Processing large environmental datasets, creating meaningful statistical analysis, and developing an intuitive user interface for complex environmental data visualization while ensuring data accuracy and accessibility.",
       solution:
@@ -225,11 +225,9 @@ const ProjectDetail = () => {
         "Environmental impact assessment tools",
       ],
       gallery: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/start_page01-fLGKBK9ChTeVvmELtFO6IN22LvAuiB.png",
+        "/images/dataset/hero.png",
       ],
-      designImages: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/start_page01-fLGKBK9ChTeVvmELtFO6IN22LvAuiB.png",
-      ],
+      
       designTitle: "CO2 Dataset - Environmental Data Platform",
     },
 
