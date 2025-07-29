@@ -165,15 +165,15 @@ const ProjectDetail = () => {
       category: "Graphic Design",
       description:
         "Client project: Professional service menu design for Falu Car Wash featuring comprehensive pricing list and service descriptions for car washing services.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/framsidan.png-kWvyrQhY2aJJYSNW4gq1BRHTOc8WJd.jpeg",
+      image: "/images/falu_car_wash/framsidan.png",
       technologies: ["Adobe Illustrator", "Photoshop", "Print Design", "Layout Design"],
       client: "Falu Car Wash",
-      year: "2023",
+      year: "2025",
       duration: "2 weeks",
       overview:
         "This client project involved designing a professional service menu for Falu Car Wash, showcasing their complete range of car washing and detailing services. The design needed to be both informative and visually appealing while maintaining clear pricing structure and service descriptions.",
       overview_image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/framsidan.png-kWvyrQhY2aJJYSNW4gq1BRHTOc8WJd.jpeg",
+        "/images/falu_car_wash/menu.png",
       challenges:
         "Creating a clear, professional menu design that effectively communicates various service levels and pricing while maintaining visual appeal and brand consistency for a local car wash business.",
       solution:
@@ -189,10 +189,8 @@ const ProjectDetail = () => {
         "Print-ready design specifications",
       ],
       gallery: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/framsidan.png-kWvyrQhY2aJJYSNW4gq1BRHTOc8WJd.jpeg",
-      ],
-      designImages: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/framsidan.png-kWvyrQhY2aJJYSNW4gq1BRHTOc8WJd.jpeg",
+        "/images/falu_car_wash/framsidan.png",
+        "/images/falu_car_wash/backsidan.png",
       ],
       designTitle: "Falu Car Wash - Professional Service Menu",
     },

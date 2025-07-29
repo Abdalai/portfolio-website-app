@@ -81,10 +81,10 @@ const Projects = () => {
       category: "Graphic Design",
       description:
         "Client project: Professional service menu design for Falu Car Wash featuring comprehensive pricing list and service descriptions for car washing services.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/framsidan.png-kWvyrQhY2aJJYSNW4gq1BRHTOc8WJd.jpeg",
+      image: "/images/falu_car_wash/menu.png",
       technologies: ["Adobe Illustrator", "Photoshop", "Print Design", "Layout Design"],
       client: "Falu Car Wash",
-      year: "2023",
+      year: "2025",
       duration: "2 weeks",
       overview:
         "This client project involved designing a professional service menu for Falu Car Wash, showcasing their complete range of car washing and detailing services with clear pricing structure.",
