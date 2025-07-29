@@ -209,7 +209,7 @@ const ProjectDetail = () => {
       overview:
         "This academic project focused on environmental data analysis, involving the development of a backend system to process CO2 emission datasets and create comprehensive statistical visualizations. The project analyzed emissions from various transportation methods and presented the data through interactive web-based charts and graphs.",
       overview_image:
-        "/images/dataset/overview.png",
+        "/images/dataset/hero.png",
       challenges:
         "Processing large environmental datasets, creating meaningful statistical analysis, and developing an intuitive user interface for complex environmental data visualization while ensuring data accuracy and accessibility.",
       solution:
@@ -225,7 +225,7 @@ const ProjectDetail = () => {
         "Environmental impact assessment tools",
       ],
       gallery: [
-        "/images/dataset/hero.png",
+        "/images/dataset/overview.png",
       ],
       
       designTitle: "CO2 Dataset - Environmental Data Platform",
@@ -233,18 +233,22 @@ const ProjectDetail = () => {
 
     "grona-tryck-complete-brand": {
       id: 6,
-      title: "Gröna Tryck - Complete Brand & E-commerce Platform",
+      title: "Gröna Tryck - Complete Brand Identity & Website Development",
       category: "Frontend Development",
       description:
         "Academic project: Comprehensive brand identity, website development, logo design, mockups, visual identity, marketing materials, packaging design, payment system, login system, and admin panel using React, CSS, Bootstrap, and HTML.",
-      image: "/images/grona_tryck/logo.png",
+      image: "/images/grona_tryck/mockup/gronatryck_cap_mockup.png",
       technologies: ["React", "CSS", "Bootstrap", "HTML", "JavaScript", "Adobe Illustrator", "Brand Strategy"],
       client: "Academic Project - Gröna Tryck",
-      year: "2023",
-      duration: "12 weeks",
+      year: "2025",
+      duration: "8 weeks",
       overview:
         "This comprehensive academic project involved creating a complete brand identity and e-commerce platform for Gröna Tryck (Green Print), an environmentally conscious printing company. The project encompassed everything from logo design and brand guidelines to a fully functional website with payment processing, user authentication, and administrative features.",
-      overview_image: "/images/grona_tryck/brand_overview.png",
+      overview_image: [
+        "/images/grona_tryck/gronatryck_visual_identity.jpg",
+        "/images/grona_tryck/patterns/gronatryck_tape_pattern.png",
+        "/images/grona_tryck/mockup/overview.png",
+      ],
       challenges:
         "Creating a cohesive brand identity that effectively communicates environmental responsibility while developing a complete e-commerce platform with modern web technologies, including secure payment processing and comprehensive admin functionality.",
       solution:
@@ -261,11 +265,43 @@ const ProjectDetail = () => {
         "Environmental sustainability-focused branding",
         "Mobile-responsive design with Bootstrap",
       ],
-      gallery: ["/images/grona_tryck/website.png", "/images/grona_tryck/admin.png", "/images/grona_tryck/packaging.png"],
+      gallery: [
+        "/images/grona_tryck/logo/logo.png",
+        "/images/grona_tryck/logo/logo_icon.png",
+        "/images/grona_tryck/mockup/gronatryck_card_mockup.png",
+        "/images/grona_tryck/mockup/gronatryck_tshirt_mockup.png",
+        "/images/grona_tryck/mockup/gronatryck_packaging_mockup.png",
+        "/images/grona_tryck/marketing/gronatryck_youtubethumbnail.png",
+      ],
       designImages: [
-        "/images/grona_tryck/manual_page1.png",
-        "/images/grona_tryck/manual_page2.png",
-        "/images/grona_tryck/manual_page3.png",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-0.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-1.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-2.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-3.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-4.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-5.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-6.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-7.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-8.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-9.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-10.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-11.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-12.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-13.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-14.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-15.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-16.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-17.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-18.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-19.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-20.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-21.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-22.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-23.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-24.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-25.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-26.jpg",
+        "/images/grona_tryck/gronatryck_graphicmanual-images-27.jpg",
       ],
       designTitle: "Gröna Tryck - Complete Brand & E-commerce Solution",
     },

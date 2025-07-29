@@ -121,11 +121,11 @@ const Projects = () => {
     {
       id: 6,
       slug: "grona-tryck-complete-brand",
-      title: "Gröna Tryck - Complete Brand & E-commerce Platform",
+      title: "Gröna Tryck - Complete Brand Identity & Website Development",
       category: "Frontend Development",
       description:
         "Academic project: Comprehensive brand identity, website development, logo design, mockups, visual identity, marketing materials, packaging design, payment system, login system, and admin panel using React, CSS, Bootstrap, and HTML.",
-      image: "/images/grona_tryck/logo.png",
+      image: "/images/grona_tryck/logo/logo.png",
       technologies: ["React", "CSS", "Bootstrap", "HTML", "JavaScript", "Adobe Illustrator", "Brand Strategy"],
       client: "Academic Project - Gröna Tryck",
       year: "2023",
