@@ -147,7 +147,7 @@ const Projects = () => {
       category: "Frontend Development",
       description:
         "Client project: Complete portfolio website and logo design for iMasters IT services company, built with React, CSS, HTML, and Bootstrap for professional IT consultancy presentation.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imasters_iPhone-h4VWtIuzZjFgGwckFJR8jAeqWB60kn.png",
+      image: "/images/imasters/logo.png",
       technologies: ["React", "CSS", "HTML", "Bootstrap", "JavaScript", "Logo Design"],
       client: "iMasters IT Services",
       year: "2023",

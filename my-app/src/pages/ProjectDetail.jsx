@@ -312,15 +312,15 @@ const ProjectDetail = () => {
       category: "Frontend Development",
       description:
         "Client project: Complete portfolio website and logo design for iMasters IT services company, built with React, CSS, HTML, and Bootstrap for professional IT consultancy presentation.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imasters_iPhone-h4VWtIuzZjFgGwckFJR8jAeqWB60kn.png",
+      image: "/images/imasters/imasters_pc.png",
       technologies: ["React", "CSS", "HTML", "Bootstrap", "JavaScript", "Logo Design"],
       client: "iMasters IT Services",
-      year: "2023",
+      year: "2024",
       duration: "4 weeks",
       overview:
         "This client project involved creating a complete portfolio website for iMasters, an IT services and consultancy company. The project included logo design, brand development, and a fully responsive website showcasing their IT support services, business solutions, and professional expertise.",
       overview_image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imasters_iPhone-h4VWtIuzZjFgGwckFJR8jAeqWB60kn.png",
+        "/images/imasters/iphone&pc.png",
       challenges:
         "Creating a professional online presence that effectively communicates technical expertise while remaining accessible to non-technical clients, and developing a responsive design that works across all devices and platforms.",
       solution:
@@ -336,11 +336,9 @@ const ProjectDetail = () => {
         "Clean, modern user interface design",
       ],
       gallery: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imasters_iPhone-h4VWtIuzZjFgGwckFJR8jAeqWB60kn.png",
+        "/images/imasters/logo.png",
       ],
-      designImages: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imasters_iPhone-h4VWtIuzZjFgGwckFJR8jAeqWB60kn.png",
-      ],
+      
       designTitle: "iMasters - IT Services Portfolio Platform",
     },
 
