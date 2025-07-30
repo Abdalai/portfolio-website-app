@@ -235,7 +235,7 @@ const Projects = () => {
       category: "Web Maintenance",
       description:
         "Client project: Complete WordPress website development and logo design for SwedenTopCar automotive services, featuring professional automotive branding and responsive web design.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/swedentopcar_pc-8ylmGlfKCxg1IETgUDcU7bklL2D8cM.png",
+      image: "/images/sweden_top_car/logo.png",
       technologies: ["WordPress", "PHP", "CSS", "HTML", "Logo Design", "Automotive Design"],
       client: "SwedenTopCar",
       year: "2023",

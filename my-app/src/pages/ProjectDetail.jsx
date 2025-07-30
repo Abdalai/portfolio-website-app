@@ -479,14 +479,16 @@ const ProjectDetail = () => {
       category: "Web Maintenance",
       description:
         "Client project: Complete WordPress website development and logo design for SwedenTopCar automotive services, featuring professional automotive branding and responsive web design.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/swedentopcar_pc-8ylmGlfKCxg1IETgUDcU7bklL2D8cM.png",
+      image: "/images/sweden_top_car/swedentopcar_pc.png",
       technologies: ["WordPress", "PHP", "CSS", "HTML", "Logo Design", "Automotive Design"],
       client: "SwedenTopCar",
       year: "2023",
       duration: "3 weeks",
       overview:
         "This client project involved creating a complete WordPress website and logo design for SwedenTopCar, an automotive services company. The project required developing a professional online presence that effectively showcases their automotive expertise and services while maintaining easy content management capabilities.",
-      overview_image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-T0z6Dty6EkpdIsW8Sf2D8PvW6i5uZ9.png",
+      overview_image: [
+        "/images/sweden_top_car/overviwe.png",
+      ],
       challenges:
         "Creating a professional automotive website that effectively communicates expertise and reliability while ensuring easy content management for the client and optimal performance across all devices.",
       solution:
@@ -502,13 +504,8 @@ const ProjectDetail = () => {
         "SEO-optimized website structure",
       ],
       gallery: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/swedentopcar_pc-8ylmGlfKCxg1IETgUDcU7bklL2D8cM.png",
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-T0z6Dty6EkpdIsW8Sf2D8PvW6i5uZ9.png",
-      ],
-      designImages: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/swedentopcar_pc-8ylmGlfKCxg1IETgUDcU7bklL2D8cM.png",
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-T0z6Dty6EkpdIsW8Sf2D8PvW6i5uZ9.png",
-      ],
+        "/images/sweden_top_car/logo.png",],
+      
       designTitle: "SwedenTopCar - WordPress Website & Branding",
     },
 
