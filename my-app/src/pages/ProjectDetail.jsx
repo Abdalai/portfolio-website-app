@@ -395,16 +395,16 @@ const ProjectDetail = () => {
       category: "Graphic Design",
       description:
         "Academic project: Comprehensive brand development for Lilla Bryggeri including logo design, marketing materials, packaging design, website design, and complete graphic manual.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-ZVQKzjVwEFEbFOSjttXoYj2Hb5b75u.png",
+      image: "/images/lilla_bryggeri/startsida.png",
       technologies: ["Adobe Illustrator", "InDesign", "Photoshop", "Brand Strategy", "Packaging Design", "Web Design"],
       client: "Academic Project - Lilla Bryggeri Tällberg",
-      year: "2023",
+      year: "2024",
       duration: "8 weeks",
       overview:
         "This comprehensive academic project involved creating a complete brand identity for Lilla Bryggeri, a craft brewery in Tällberg. The project encompassed logo design, marketing materials, packaging design, website development, and a complete graphic manual, focusing on local heritage and craft brewing traditions.",
       overview_image: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-ZVQKzjVwEFEbFOSjttXoYj2Hb5b75u.png",
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fa%CC%88rger%20-%20fa%CC%88rgpalett-D9O2tbn4wCUuBU8jjU4jhx6tZiL6wn.png",
+        "/images/lilla_bryggeri/iphone.png",
+        "/images/lilla_bryggeri/overview.png",
       ],
       challenges:
         "Creating a brand identity that honors local brewing traditions while appealing to modern craft beer enthusiasts, and developing a comprehensive brand system that works across packaging, digital, and marketing applications.",
@@ -422,12 +422,18 @@ const ProjectDetail = () => {
         "Local heritage-focused brand positioning",
       ],
       gallery: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-ZVQKzjVwEFEbFOSjttXoYj2Hb5b75u.png",
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fa%CC%88rger%20-%20fa%CC%88rgpalett-D9O2tbn4wCUuBU8jjU4jhx6tZiL6wn.png",
+        "/images/lilla_bryggeri/color.png","/images/lilla_bryggeri/font.png","/images/lilla_bryggeri/logo01.png",
       ],
       designImages: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-ZVQKzjVwEFEbFOSjttXoYj2Hb5b75u.png",
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/fa%CC%88rger%20-%20fa%CC%88rgpalett-D9O2tbn4wCUuBU8jjU4jhx6tZiL6wn.png",
+        "/images/lilla_bryggeri/startsida.png",
+        "/images/lilla_bryggeri/brief.png",
+        "/images/lilla_bryggeri/färger_färgpalett.png",
+        "/images/lilla_bryggeri/logotyp.png",
+        "/images/lilla_bryggeri/logotyp01.png",
+        "/images/lilla_bryggeri/logotyp02.png",
+        "/images/lilla_bryggeri/typografi.png",
+        "/images/lilla_bryggeri/bildspråk.png",
+        "/images/lilla_bryggeri/bildspråk-1.png",
       ],
       designTitle: "Lilla Bryggeri - Complete Brand Identity System",
     },

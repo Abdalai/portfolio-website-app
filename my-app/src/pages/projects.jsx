@@ -191,7 +191,7 @@ const Projects = () => {
       category: "Graphic Design",
       description:
         "Academic project: Comprehensive brand development for Lilla Bryggeri including logo design, marketing materials, packaging design, website design, and complete graphic manual.",
-      image: "/images/lilla_bryggeri/logo.png",
+      image: "/images/lilla_bryggeri/logo01.png",
       technologies: ["Adobe Illustrator", "InDesign", "Photoshop", "Brand Strategy", "Packaging Design", "Web Design"],
       client: "Academic Project - Lilla Bryggeri Tällberg",
       year: "2024",
