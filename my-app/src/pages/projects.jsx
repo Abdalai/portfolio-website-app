@@ -169,11 +169,11 @@ const Projects = () => {
       category: "Graphic Design",
       description:
         "Academic project: Complete brand identity development and comprehensive graphic manual for InsightCycle, featuring logo design, color systems, and professional brand guidelines.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-1.jpg-QWvCKk3utnzpEtcz1XAgMXACBPsbr8.jpeg",
+      image: "/images/InsightCycle/logo01.png",
       technologies: ["Adobe Illustrator", "InDesign", "Photoshop", "Brand Strategy", "Graphic Design"],
       client: "Academic Project - InsightCycle",
-      year: "2023",
-      duration: "5 weeks",
+      year: "2025",
+      duration: "6 weeks",
       overview:
         "This academic project focused on developing a complete brand identity for InsightCycle, a technology-focused feedback and analytics platform.",
       challenges:
@@ -191,10 +191,10 @@ const Projects = () => {
       category: "Graphic Design",
       description:
         "Academic project: Comprehensive brand development for Lilla Bryggeri including logo design, marketing materials, packaging design, website design, and complete graphic manual.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/logo-ZVQKzjVwEFEbFOSjttXoYj2Hb5b75u.png",
+      image: "/images/lilla_bryggeri/logo.png",
       technologies: ["Adobe Illustrator", "InDesign", "Photoshop", "Brand Strategy", "Packaging Design", "Web Design"],
       client: "Academic Project - Lilla Bryggeri Tällberg",
-      year: "2023",
+      year: "2024",
       duration: "8 weeks",
       overview:
         "This comprehensive academic project involved creating a complete brand identity for Lilla Bryggeri, a craft brewery in Tällberg, focusing on local heritage and craft brewing traditions.",

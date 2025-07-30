@@ -349,16 +349,15 @@ const ProjectDetail = () => {
       description:
         "Academic project: Complete brand identity development and comprehensive graphic manual for InsightCycle, featuring logo design, color systems, and professional brand guidelines.",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-1.jpg-QWvCKk3utnzpEtcz1XAgMXACBPsbr8.jpeg",
+        "/images/InsightCycle/InsightCycles_Grafisk_manual-images-0.jpg",
       technologies: ["Adobe Illustrator", "InDesign", "Photoshop", "Brand Strategy", "Graphic Design"],
       client: "Academic Project - InsightCycle",
-      year: "2023",
-      duration: "5 weeks",
+      year: "2025",
+      duration: "6 weeks",
       overview:
         "This academic project focused on developing a complete brand identity for InsightCycle, a technology-focused feedback and analytics platform. The project involved creating a distinctive logo, comprehensive color system, and detailed graphic manual to ensure consistent brand application across all communications.",
       overview_image: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-1.jpg-QWvCKk3utnzpEtcz1XAgMXACBPsbr8.jpeg",
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-2.jpg-AVpr5nYoFkrmNEvceEf6rUeMaf0RRA.jpeg",
+        "/images/InsightCycle/overview.png",
       ],
       challenges:
         "Creating a brand identity that effectively communicates technology and professionalism while developing a comprehensive graphic manual that ensures consistent brand application across various media and platforms.",
@@ -375,12 +374,17 @@ const ProjectDetail = () => {
         "Professional documentation and brand standards",
       ],
       gallery: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-1.jpg-QWvCKk3utnzpEtcz1XAgMXACBPsbr8.jpeg",
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-2.jpg-AVpr5nYoFkrmNEvceEf6rUeMaf0RRA.jpeg",
+        "/images/InsightCycle/logo.png",
+        "/images/InsightCycle/logo01.png",
       ],
       designImages: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-1.jpg-QWvCKk3utnzpEtcz1XAgMXACBPsbr8.jpeg",
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/InsightCycles_Grafisk_manual-images-2.jpg-AVpr5nYoFkrmNEvceEf6rUeMaf0RRA.jpeg",
+        "/images/InsightCycle/InsightCycles_Grafisk_manual-images-0.jpg",
+        "/images/InsightCycle/InsightCycles_Grafisk_manual-images-1.jpg",
+        "/images/InsightCycle/InsightCycles_Grafisk_manual-images-2.jpg",
+        "/images/InsightCycle/InsightCycles_Grafisk_manual-images-3.jpg",
+        "/images/InsightCycle/InsightCycles_Grafisk_manual-images-4.jpg",
+        "/images/InsightCycle/InsightCycles_Grafisk_manual-images-5.jpg",
+        "/images/InsightCycle/InsightCycles_Grafisk_manual-images-6.jpg",
       ],
       designTitle: "InsightCycle - Brand Identity & Graphic Manual",
     },
