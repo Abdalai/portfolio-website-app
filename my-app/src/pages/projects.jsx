@@ -257,7 +257,7 @@ const Projects = () => {
       category: "Graphic Design",
       description:
         "Academic project: Complete food magazine design featuring culinary content, professional food photography layout, and comprehensive editorial design for Swedish food culture publication.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/khamel_abdalai_u2-images-1.jpg-uWZrqsCj2DCjJOX9EcEUfujqAABfbu.jpeg",
+      image: "/images/matresa/logo.png",
       technologies: ["Adobe InDesign", "Photoshop", "Editorial Design", "Typography", "Layout Design"],
       client: "Academic Project - Matresa Magazine",
       year: "2023",

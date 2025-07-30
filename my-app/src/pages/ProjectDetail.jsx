@@ -516,7 +516,7 @@ const ProjectDetail = () => {
       description:
         "Academic project: Complete food magazine design featuring culinary content, professional food photography layout, and comprehensive editorial design for Swedish food culture publication.",
       image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/khamel_abdalai_u2-images-1.jpg-uWZrqsCj2DCjJOX9EcEUfujqAABfbu.jpeg",
+        "/images/matresa/khamel_abdalai_u2-images-0.jpg",
       technologies: ["Adobe InDesign", "Photoshop", "Editorial Design", "Typography", "Layout Design"],
       client: "Academic Project - Matresa Magazine",
       year: "2023",
@@ -524,7 +524,7 @@ const ProjectDetail = () => {
       overview:
         "This academic project involved creating a complete food magazine called 'Matresa' focusing on Swedish and international culinary traditions. The project required developing editorial design skills, professional layout techniques, and creating engaging visual presentations of food content and recipes.",
       overview_image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/khamel_abdalai_u2-images-1.jpg-uWZrqsCj2DCjJOX9EcEUfujqAABfbu.jpeg",
+        "/images/matresa/mall.png",
       challenges:
         "Creating an engaging editorial design that effectively presents food content, recipes, and culinary stories while maintaining professional magazine standards and visual appeal throughout multiple pages and sections.",
       solution:
@@ -540,10 +540,16 @@ const ProjectDetail = () => {
         "Professional publication design standards",
       ],
       gallery: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/khamel_abdalai_u2-images-1.jpg-uWZrqsCj2DCjJOX9EcEUfujqAABfbu.jpeg",
+        "/images/matresa/logo.png",
       ],
       designImages: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/khamel_abdalai_u2-images-1.jpg-uWZrqsCj2DCjJOX9EcEUfujqAABfbu.jpeg",
+        "/images/matresa/khamel_abdalai_u2-images-0.jpg",
+        "/images/matresa/khamel_abdalai_u2-images-1.jpg",
+        "/images/matresa/khamel_abdalai_u2-images-2.jpg",
+        "/images/matresa/khamel_abdalai_u2-images-3.jpg",
+        "/images/matresa/khamel_abdalai_u2-images-4.jpg",
+        "/images/matresa/khamel_abdalai_u2-images-5.jpg",
+        "/images/matresa/khamel_abdalai_u2-images-6.jpg",
       ],
       designTitle: "Matresa - Swedish Food Magazine Design",
     },
