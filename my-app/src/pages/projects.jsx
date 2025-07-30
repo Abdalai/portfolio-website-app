@@ -213,11 +213,11 @@ const Projects = () => {
       category: "Graphic Design",
       description:
         "Client project: Professional pizza menu design for Pizza Mia restaurant featuring comprehensive food offerings, pricing, and appetizing visual presentation.",
-      image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PIZZA%20MIA-VzRaBFUqZvSFmKTuLtI3bYbahGX7eE.png",
+      image: "/images/pizza/logo.png",
       technologies: ["Adobe Illustrator", "Photoshop", "Print Design", "Menu Design"],
       client: "Pizza Mia Restaurant",
-      year: "2023",
-      duration: "2 weeks",
+      year: "2024",
+      duration: "1 weeks",
       overview:
         "This client project involved designing a comprehensive menu for Pizza Mia, a local pizza restaurant, showcasing their full range of pizzas, appetizers, and beverages.",
       challenges:

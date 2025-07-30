@@ -447,12 +447,14 @@ const ProjectDetail = () => {
       image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PIZZA%20MIA-VzRaBFUqZvSFmKTuLtI3bYbahGX7eE.png",
       technologies: ["Adobe Illustrator", "Photoshop", "Print Design", "Menu Design"],
       client: "Pizza Mia Restaurant",
-      year: "2023",
-      duration: "2 weeks",
+      year: "2024",
+      duration: "1 weeks",
       overview:
         "This client project involved designing a comprehensive menu for Pizza Mia, a local pizza restaurant. The design needed to showcase their full range of pizzas, appetizers, and beverages while maintaining an appetizing visual appeal and clear pricing structure for easy customer navigation.",
-      overview_image:
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PIZZA%20MIA-VzRaBFUqZvSFmKTuLtI3bYbahGX7eE.png",
+      overview_image: [
+        "/images/pizza/mall_pizza.png",
+        "/images/pizza/mall_pizza1.png",
+      ],
       challenges:
         "Creating an appetizing menu design that effectively organizes a large variety of food items while maintaining visual appeal and ensuring easy readability for customers in a restaurant setting.",
       solution:
@@ -467,10 +469,7 @@ const ProjectDetail = () => {
         "Easy-to-read typography and organization",
         "Print-ready restaurant menu specifications",
       ],
-      gallery: ["https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PIZZA%20MIA-VzRaBFUqZvSFmKTuLtI3bYbahGX7eE.png"],
-      designImages: [
-        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/PIZZA%20MIA-VzRaBFUqZvSFmKTuLtI3bYbahGX7eE.png",
-      ],
+      gallery: ["/images/pizza/logo.png"],
       designTitle: "Pizza Mia - Professional Restaurant Menu",
     },
 
