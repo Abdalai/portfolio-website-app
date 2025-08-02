@@ -44,8 +44,8 @@ const About = () => {
                 <img src="/images/university.svg" alt="Education Icon" />
               </div>
               <div className="education-details">
-                <h3>Bachelor of Philosophy</h3>
-                <p className="education-major">Major: Computer Science</p>
+                <h3>Bachelor of Science</h3>
+                <p className="education-major">Major: Information Systems</p>
                 <p className="education-school">Dalarna University College</p>
                 <p className="education-date">July 2, 2025</p>
                 <p className="education-program">
