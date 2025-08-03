@@ -1,6 +1,7 @@
 
 import React from "react"
 import "./Contact.css"
+import { Link } from "react-router-dom"
 
 export default function Contact() {
   const [result, setResult] = React.useState("")
@@ -113,12 +114,12 @@ export default function Contact() {
               your goals with professional, high-quality work.
             </p>
             <div className="cta-buttons">
-              <a href="/services" className="btn btn-secondary">
-                View Services
-              </a>
-              <a href="/projects" className="btn btn-secondary">
+              <Link to="/services" className="btn btn-secondary">
+                View My Services
+              </Link>
+              <Link to="/projects" className="btn btn-secondary">
                 See My Work
-              </a>
+              </Link>
             </div>
           </div>
         </div>

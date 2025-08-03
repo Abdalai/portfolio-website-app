@@ -4,6 +4,7 @@ import { useState } from "react"
 import { Link } from "react-router-dom"
 import "./Projects.css"
 
+
 const Projects = () => {
   const [activeFilter, setActiveFilter] = useState("All")
 
@@ -359,9 +360,9 @@ const Projects = () => {
           <div className="projects-cta">
             <h2>Interested in Working Together?</h2>
             <p>Let's discuss your project and how I can help bring your ideas to life.</p>
-            <a href="/contact" className="btn btn-primary">
+            <Link to="/contact" className="btn btn-primary">
               Start a Project
-            </a>
+            </Link>
           </div>
         </div>
       </section>

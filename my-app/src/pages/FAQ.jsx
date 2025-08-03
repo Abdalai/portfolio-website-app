@@ -2,6 +2,8 @@
 
 import { useState } from "react"
 import "./FAQ.css"
+import { Link } from "react-router-dom"
+
 
 const FAQ = () => {
   const [openItems, setOpenItems] = useState({})
@@ -119,17 +121,13 @@ const FAQ = () => {
                   I'm here to help! If you don't find the answer you're looking for, don't hesitate to reach out
                   directly.
                 </p>
-                <a href="/contact" className="btn btn-primary">
-                  Contact Me
-                </a>
+                <Link to="/contact" className="btn btn-primary">Contact Me</Link>
               </div>
 
               <div className="faq-services-card">
                 <h3>Ready to Start?</h3>
                 <p>Explore my services and see how I can help bring your project to life.</p>
-                <a href="/services" className="btn btn-secondary">
-                  View Services
-                </a>
+                <Link to="/services" className="btn btn-secondary">View Services</Link>
               </div>
             </div>
           </div>
